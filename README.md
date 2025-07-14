@@ -29,7 +29,7 @@ forge build
 Deploy and verify sample token with Transparent Proxy [EIP-1967](https://eips.ethereum.org/EIPS/eip-1967):
 
 ```sh
-export RPC=
+export RPC_URL=
 export PK=
 export ETHERSCAN_API_KEY=
 
